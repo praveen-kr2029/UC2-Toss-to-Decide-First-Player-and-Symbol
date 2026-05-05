@@ -4,7 +4,7 @@ class UserInput {
 
     Scanner scanner = new Scanner(System.in);
 
-    // Method to get slot input from user
+
     public int getUserSlot() {
         int slot;
 
